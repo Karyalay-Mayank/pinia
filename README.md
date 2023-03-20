@@ -2,7 +2,7 @@
 
 ## Boilerplate Code
 
-(https://github.com/Karyalay-Mayank/pinia/blob/master/src/assets/Pinia.png)
+![alt text](https://github.com/Karyalay-Mayank/pinia/blob/master/src/assets/Pinia.png)
 
 ## How to Use
 
